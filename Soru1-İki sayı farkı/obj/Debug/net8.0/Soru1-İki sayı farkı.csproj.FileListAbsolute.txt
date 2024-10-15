@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\bin\Debug\net8.0\Soru1-İki sayı farkı.exe
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\bin\Debug\net8.0\Soru1-İki sayı farkı.deps.json
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\bin\Debug\net8.0\Soru1-İki sayı farkı.runtimeconfig.json
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\bin\Debug\net8.0\Soru1-İki sayı farkı.dll
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\bin\Debug\net8.0\Soru1-İki sayı farkı.pdb
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.dll
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\refint\Soru1-İki sayı farkı.dll
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.pdb
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\Soru1-İki sayı farkı.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Soru1-İki sayı farkı\obj\Debug\net8.0\ref\Soru1-İki sayı farkı.dll
